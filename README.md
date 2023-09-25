@@ -1,5 +1,5 @@
 # Web-Scarping
-Steps for doing the projects: 
+Steps for doing the project: 
 1.	Import necessary libraries: 
 •	googleapiclient.discovery for interacting with the YouTube Data API
 •	pandas for data manipulation
